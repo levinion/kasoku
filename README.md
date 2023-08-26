@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/github/license/your/repository)](https://github.com/levinion/kasoku)
+[![GitHub](https://img.shields.io/github/license/levinion/kasoku)](https://github.com/levinion/kasoku)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/levinion/kasoku)](https://github.com/levinion/kasoku/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/levinion/kasoku)](https://github.com/levinion/kasoku/commits/master)
 
@@ -38,7 +38,7 @@ kasoku 的模糊搜索速度极快，采用正则匹配模式以支持复杂搜�
 
 ## 协议
 
-此项目使用 [GPL 协议](https://github.com/levinion/kasoku/blob/master/LICENSE)。
+此项目使用 [GPL 协议](https://github.com/levinion/kasoku/blob/main/LICENSE)。
 
 ---
 
